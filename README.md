@@ -1,2 +1,2 @@
 # awesome-deep-learning-4-life-sciences
-A collection of resources for Deep Learning in Python for Life Sciences.
+This repo lists a collection of resources for performing Deep Learning in [Python](https://www.python.org) for Life Sciences. I am observing an ever increasing volume of academic work and Open Source initiatives related to topics such as biochemistry, genetics, molecular biology, bioinformatics, etc. So, I have created this repository to provide research and developer communities a single place to keep track of the latest development in this space.  
