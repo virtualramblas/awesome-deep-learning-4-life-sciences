@@ -1,9 +1,13 @@
 # awesome-deep-learning-4-life-sciences
 This repo lists a collection of resources for performing Deep Learning in [Python](https://www.python.org) for Life Sciences. I am observing an ever increasing volume of academic work and Open Source initiatives related to topics such as biochemistry, genetics, molecular biology, bioinformatics, etc. So, I have created this repository to provide research and developer communities a single place to keep track of the latest developments in this space.  
 # Table of contents
+* [Molecules](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/edit/main/README.md#molecules)
 * [Proteins](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/edit/main/README.md#proteins) 
 * [Datasets](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/edit/main/README.md#datasets)
-* [Explainable AI](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/edit/main/README.md#explainable-ai)
+* [Explainable AI](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/edit/main/README.md#explainable-ai) 
+# Molecules
+* [pysmiles](https://github.com/pckroon/pysmiles) - A lightweight Python library for reading and writing SMILES strings.
+* [SmilesDrawer](https://colab.research.google.com/drive/1PmJX2XFg_1ORexGTw4FkKjr779sk1zAr?usp=sharing) - A Colab notebook to draw from SMILES strings.  
 # Proteins
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk) - A online database which provides open access to 992,316 protein structure predictions for the human proteome and other key proteins of interest, to accelerate scientific research.
 * [AlphaFold](https://github.com/deepmind/alphafold) - Open source code for DeepMind's AlphaFold.
