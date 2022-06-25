@@ -9,6 +9,7 @@ This repo lists a collection of resources for performing Deep Learning in [Pytho
 # Molecules
 * [pysmiles](https://github.com/pckroon/pysmiles) - A lightweight Python library for reading and writing SMILES strings.
 * [SmilesDrawer](https://colab.research.google.com/drive/1PmJX2XFg_1ORexGTw4FkKjr779sk1zAr?usp=sharing) - A Colab notebook to draw from SMILES strings.  
+* [ChemProp](https://github.com/chemprop/chemprop) - Message Passing Neural Networks for molecule property prediction.  
 # Proteins
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk) - A online database which provides open access to 992,316 protein structure predictions for the human proteome and other key proteins of interest, to accelerate scientific research.
 * [AlphaFold](https://github.com/deepmind/alphafold) - Open source code for DeepMind's AlphaFold.
