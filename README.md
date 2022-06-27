@@ -1,6 +1,7 @@
 # awesome-deep-learning-4-life-sciences
 This repo lists a collection of resources for performing Deep Learning in [Python](https://www.python.org) for Life Sciences. I am observing an ever increasing volume of academic work and Open Source initiatives related to topics such as biochemistry, genetics, molecular biology, bioinformatics, etc. So, I have created this repository to provide researchers, developers and practitioners a single place to keep track of the latest developments in this space, with focus in particular on biotech and pharma.  
-![Splash Image](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/images/dallemini_2022-6-27_15-56-36-cropped.png)
+![Splash Image](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/images/dallemini_2022-6-27_15-56-36-cropped.png)  
+Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/dalle-mini) by prompting "A fancy protein folding".  
 # Table of contents
 * [Molecules](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/edit/main/README.md#molecules)
 * [Proteins](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/edit/main/README.md#proteins) 
@@ -45,6 +46,7 @@ This repo lists a collection of resources for performing Deep Learning in [Pytho
 * [COVID-19 Multi-Targeted Drug Repurposing Using Few-Shot](https://github.com/XieResearchGroup/MolGNN_fewshot) - PyTorch implementation of MolGNN Few-shot. [[Article](https://www.frontiersin.org/articles/10.3389/fbinf.2021.693177/full)] [[Paper](https://www.researchgate.net/publication/352403842_COVID-19_Multi-Targeted_Drug_Repurposing_Using_Few-Shot_Learning)]  
 * [PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix) - A Bio-Computing Platform featuring Large-Scale Representation Learning and Multi-Task Deep Learning.  
 * [liGAN](https://github.com/mattragoza/liGAN) - Deep generative models of 3D grids for structure-based drug discovery. [[Article](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc05976a)] [[Paper](https://arxiv.org/pdf/2110.15200v2.pdf)]   
+* [LIMO](https://github.com/Rose-STL-Lab/LIMO) - **L**atent **I**nceptionism for targeted **MO**lecule Generation: a generative model for drug discovery. [[Paper](https://arxiv.org/pdf/2206.09010.pdf)]
 # Datasets
 * [DECIMER - Hand-drawn molecule images dataset](https://zenodo.org/record/6456306#.YravvC8w1QI) - A standardised, openly available benchmark dataset of 5088 hand-drawn depictions of diversely picked chemical structures. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9)]  
 * [UniLanguage](https://github.com/alrojo/UniLanguage) - Homology reduced UniProt, train-/valid-/testsets for language modeling.  
