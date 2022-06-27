@@ -1,5 +1,6 @@
 # awesome-deep-learning-4-life-sciences
 This repo lists a collection of resources for performing Deep Learning in [Python](https://www.python.org) for Life Sciences. I am observing an ever increasing volume of academic work and Open Source initiatives related to topics such as biochemistry, genetics, molecular biology, bioinformatics, etc. So, I have created this repository to provide researchers, developers and practitioners a single place to keep track of the latest developments in this space, with focus in particular on biotech and pharma.  
+![Splash Image](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/images/dallemini_2022-6-27_15-56-36-cropped.png)
 # Table of contents
 * [Molecules](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/edit/main/README.md#molecules)
 * [Proteins](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/edit/main/README.md#proteins) 
