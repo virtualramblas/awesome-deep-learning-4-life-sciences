@@ -7,9 +7,9 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 [Proteins](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/README.md#proteins)  
 [Cheminformatics](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/README.md#cheminformatics)  
 [Drug Discovery](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/README.md#drug-discovery)  
-[Datasets](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/edit/main/README.md#datasets)  
-[Explainable AI](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/edit/main/README.md#explainable-ai)  
-[Other](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/edit/main/README.md#other)  
+[Datasets](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/README.md#datasets)  
+[Explainable AI](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/README.md#explainable-ai)  
+[Other](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/README.md#other)  
 # Molecules
 * [pysmiles](https://github.com/pckroon/pysmiles) - A lightweight Python library for reading and writing SMILES strings.
 * [SmilesDrawer](https://colab.research.google.com/drive/1PmJX2XFg_1ORexGTw4FkKjr779sk1zAr?usp=sharing) - A Colab notebook to draw from SMILES strings.  
