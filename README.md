@@ -38,6 +38,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [Protein Sequence Embedding](https://github.com/tbepler/protein-sequence-embedding-iclr2019) - Learning protein sequence embeddings using information from structure. [[Paper](https://arxiv.org/pdf/1902.08661v2.pdf)]  
 * [IdpGAN](https://github.com/feiglab/idpgan) - A GAN to generate different 3D conformations for intrinsically disordered proteins given their sequences. [[Article](https://www.biorxiv.org/content/10.1101/2022.06.18.496675v1.full)]  
 * [PocketMiner](https://github.com/Mickdub/gvp/tree/pocket_pred) - A tool for predicting the locations of cryptic pockets from single protein structures. [[Paper](https://www.biorxiv.org/content/10.1101/2022.06.28.497399v2)]  
+* [progen2](https://github.com/salesforce/progen) - A suite of open-sourced projects and models for protein engineering and design. [[Paper](https://arxiv.org/pdf/2206.13517.pdf)]  
 # Cheminformatics
 * [DRFP](https://github.com/reymond-group/drfp) - An NLP-inspired chemical reaction fingerprint based on basic set arithmetic. [[Article](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d1dd00006c)]. 
 * [DeepChem](https://github.com/deepchem/deepchem) - A high quality Open Source toolchain that democratizes the use of Deep Learning in drug discovery, materials science, quantum chemistry, and biology.
