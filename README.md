@@ -23,7 +23,8 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [Pasithea](https://github.com/aspuru-guzik-group/Pasithea) - Deep Molecular Dreaming: Inverse Machine Learning for de-novo molecular design and interpretability with surjective representations. [[Paper](https://arxiv.org/pdf/2012.09712v1.pdf)]  
 * [fragment-based-dgm](https://github.com/marcopodda/fragment-based-dgm) - A Deep Generative Model for fragment-based molecule generation. [[Paper](https://arxiv.org/pdf/2002.12826v1.pdf)]  
 * [MAT](https://github.com/ardigen/MAT) - **M**olecule **A**ttention **T**ransformer for molecular prediction tasks. [[Paper](https://arxiv.org/pdf/2002.08264v1.pdf)]. 
-* [Specklit](https://github.com/avrabyt/st-speckmol) - A Streamlit Component for creating [Speck](https://github.com/wwwtyro/speck) molecular structures within a Streamlit Web app.
+* [Specklit](https://github.com/avrabyt/st-speckmol) - A Streamlit Component for creating [Speck](https://github.com/wwwtyro/speck) molecular structures within a Streamlit Web app.  
+* [molcloud](https://github.com/whitead/molcloud) - A package to draw molecules in a big canvas packed together.  
 # Proteins
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk) - A online database which provides open access to 992,316 protein structure predictions for the human proteome and other key proteins of interest, to accelerate scientific research.
 * [AlphaFold](https://github.com/deepmind/alphafold) - Open source code for DeepMind's AlphaFold.
