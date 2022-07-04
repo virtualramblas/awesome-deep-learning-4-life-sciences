@@ -25,6 +25,8 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [MAT](https://github.com/ardigen/MAT) - **M**olecule **A**ttention **T**ransformer for molecular prediction tasks. [[Paper](https://arxiv.org/pdf/2002.08264v1.pdf)]. 
 * [Specklit](https://github.com/avrabyt/st-speckmol) - A Streamlit Component for creating [Speck](https://github.com/wwwtyro/speck) molecular structures within a Streamlit Web app.  
 * [molcloud](https://github.com/whitead/molcloud) - A package to draw molecules in a big canvas packed together.  
+* [Img2Mol](https://github.com/bayer-science-for-a-better-life/Img2Mol) - Inferring molecules from pictures.  
+* [GLAMOUR](https://github.com/learningmatter-mit/GLAMOUR) - Chemistry-informed Macromolecule Graph Representation for Similarity Computation, Unsupervised and Supervised Learning. [[Paper](https://iopscience.iop.org/article/10.1088/2632-2153/ac545e)]
 # Proteins
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk) - A online database which provides open access to 992,316 protein structure predictions for the human proteome and other key proteins of interest, to accelerate scientific research.
 * [AlphaFold](https://github.com/deepmind/alphafold) - Open source code for DeepMind's AlphaFold.
