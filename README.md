@@ -48,6 +48,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [alphafold_finetune](https://github.com/phbradley/alphafold_finetune) - Python code for fine-tuning AlphaFold to perform protein-peptide binding predictions.  
 * [ProtGPT2](https://huggingface.co/nferruz/ProtGPT2) - A deep unsupervised language model for protein design. [[Article](https://www.nature.com/articles/s41467-022-32007-7)]  
 * [Bio Embeddings](https://github.com/sacdallago/bio_embeddings) - General purpose Python embedders based on open models trained on biological sequence representations.  
+* [Uni-Fold](https://github.com/dptech-corp/Uni-Fold) - An Open Source platform for developing protein models beyond AlphaFold. [[Paper](https://www.biorxiv.org/content/10.1101/2022.08.04.502811v1)]  
 # Cheminformatics
 * [DRFP](https://github.com/reymond-group/drfp) - An NLP-inspired chemical reaction fingerprint based on basic set arithmetic. [[Article](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d1dd00006c)]. 
 * [DeepChem](https://github.com/deepchem/deepchem) - A high quality Open Source toolchain that democratizes the use of Deep Learning in drug discovery, materials science, quantum chemistry, and biology.
