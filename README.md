@@ -70,6 +70,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [DrugOOD](https://github.com/tencent-ailab/DrugOOD) - A systematic OOD (Out-Of-Distribution) dataset curator and benchmark for AI-aided drug discovery. [[Paper](https://arxiv.org/abs/2201.09637)]  
 # Datasets
 * [DECIMER - Hand-drawn molecule images dataset](https://zenodo.org/record/6456306#.YravvC8w1QI) - A standardised, openly available benchmark dataset of 5088 hand-drawn depictions of diversely picked chemical structures. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9)]  
+* [UniProt](https://www.uniprot.org/) - The world’s leading high-quality, comprehensive and freely accessible resource of protein sequence and functional information.  
 * [UniLanguage](https://github.com/alrojo/UniLanguage) - Homology reduced UniProt, train-/valid-/testsets for language modeling.  
 * [ChEMBL](https://www.ebi.ac.uk/chembl/) - A manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.  
 * [Molecule OCR Real images Dataset](https://zenodo.org/record/5356500#.YrdYxi8w1QI) - Test dataset from paper "Image2SMILES: Transformer-based Molecular Optical Recognition Engine". It contains 296 structures: images and Functional Groups SMILES (FG-SMILES).  
@@ -79,6 +80,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [DIPS](https://github.com/drorlab/DIPS) - **D**atabase of **I**nteracting **P**rotein **S**tructures. [[Paper](https://arxiv.org/abs/1807.01297)]  
 * [Aggregated Views of Proteins](https://www.ebi.ac.uk/pdbe/pdbe-kb/proteins/P38129/structures) - Protein data bank in Europe knowledge base.  
 * [ProtCAD](http://dunbrack2.fccc.edu/protcad/) - **Pro**tein  **C**ommon **A**ssembly **D**atabase. A comprehensive structural resource of protein complexes. [[Paper](https://www.biorxiv.org/content/10.1101/2022.08.15.503938v1)]  
+* [gget](https://github.com/pachterlab/gget) - A free, Open Source command-line tool and Python package that enables efficient querying of genomic databases.  
 # Explainable AI
 * [Interpretable and Explainable Machine Learning for Materials Science and Chemistry](https://pubs.acs.org/doi/10.1021/accountsmr.1c00244) - Interpretable and Explainable Machine Learning applied to materials science and chemistry.
 * [exmol](https://github.com/ur-whitelab/exmol) - Explainer for black box models that predict molecule properties.  
