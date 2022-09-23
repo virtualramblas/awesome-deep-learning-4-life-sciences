@@ -69,6 +69,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [DelFTa](https://github.com/josejimenezluna/delfta) - Δ-Quantum Machine Learning for medicinal chemistry. [[Paper](https://pubs.rsc.org/en/content/articlehtml/2022/cp/d2cp00834c)]  
 * [Fréchet ChemNet Distance](https://github.com/bioinf-jku/FCD) - Fréchet ChemNet Distance: a quality measure for generative models for molecules. [[Paper](https://arxiv.org/pdf/1803.09518v3.pdf)].   
 * [DrugOOD](https://github.com/tencent-ailab/DrugOOD) - A systematic OOD (Out-Of-Distribution) dataset curator and benchmark for AI-aided drug discovery. [[Paper](https://arxiv.org/abs/2201.09637)]  
+* [PIGNet](https://github.com/ACE-KAIST/PIGNet) - a Physics Informed Deep Learning model toward generalized drug-target interaction predictions. [[Paper](https://pubs.rsc.org/en/content/articlelanding/2022/SC/D1SC06946B)]  
 # Datasets
 * [DECIMER - Hand-drawn molecule images dataset](https://zenodo.org/record/6456306#.YravvC8w1QI) - A standardised, openly available benchmark dataset of 5088 hand-drawn depictions of diversely picked chemical structures. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9)]  
 * [UniProt](https://www.uniprot.org/) - The world’s leading high-quality, comprehensive and freely accessible resource of protein sequence and functional information.  
