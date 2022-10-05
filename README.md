@@ -53,7 +53,8 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [Uni-Fold](https://github.com/dptech-corp/Uni-Fold) - An Open Source platform for developing protein models beyond AlphaFold. [[Paper](https://www.biorxiv.org/content/10.1101/2022.08.04.502811v1)]  
 * [AF2Rank](https://github.com/jproney/AF2Rank) - State-of-the-art estimation of protein model accuracy using AlphaFold. [[Paper](https://www.biorxiv.org/content/10.1101/2022.03.11.484043v3)]  
 * [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) - Robust Deep Learning based protein sequence design. [[Paper]](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1)  
-* [DPAM](https://github.com/CongLabCode/DPAM) - A Domain Parser for AlphaFold Models. [[Paper](https://www.biorxiv.org/content/10.1101/2022.09.22.509116v1.full)]
+* [DPAM](https://github.com/CongLabCode/DPAM) - A Domain Parser for AlphaFold Models. [[Paper](https://www.biorxiv.org/content/10.1101/2022.09.22.509116v1.full)]  
+* [ModelAngelo](https://github.com/3dem/model-angelo) - Automatic atomic model building program for Electron cryo-microscopy (cryo-EM) maps. [[Paper](https://arxiv.org/abs/2210.00006)]  
 # Cheminformatics
 * [DRFP](https://github.com/reymond-group/drfp) - An NLP-inspired chemical reaction fingerprint based on basic set arithmetic. [[Article](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d1dd00006c)]. 
 * [DeepChem](https://github.com/deepchem/deepchem) - A high quality Open Source toolchain that democratizes the use of Deep Learning in drug discovery, materials science, quantum chemistry, and biology.
