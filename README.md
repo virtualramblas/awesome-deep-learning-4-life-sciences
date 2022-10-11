@@ -65,6 +65,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [RDKit](https://www.rdkit.org/docs/index.html) - Open Source toolkit for cheminformatics and Machine Learning.  
 * [Streamlit-app](https://github.com/suneelbvs/Streamlit-app) - A Streamlit web app for cheminformatics which includes also a RDKit cheatsheet.  
 * [datamol](https://github.com/datamol-org/datamol) - A lightweight Python library to work with molecules, built on top of RDKit.   
+* [rxn_yields](https://github.com/rxn4chemistry/rxn_yields/tree/master/) - Prediction of chemical reaction yields using Deep Learning and data augmentation strategies. [[Article](https://iopscience.iop.org/article/10.1088/2632-2153/abc81d)]  
 # Drug Discovery
 * [TorchDrug](https://github.com/DeepGraphLearning/torchdrug) - A powerful and flexible PyTorch-based Deep Learning platform for drug discovery.  
 * [COVID-19 Multi-Targeted Drug Repurposing Using Few-Shot](https://github.com/XieResearchGroup/MolGNN_fewshot) - PyTorch implementation of MolGNN Few-shot. [[Article](https://www.frontiersin.org/articles/10.3389/fbinf.2021.693177/full)] [[Paper](https://www.researchgate.net/publication/352403842_COVID-19_Multi-Targeted_Drug_Repurposing_Using_Few-Shot_Learning)]  
