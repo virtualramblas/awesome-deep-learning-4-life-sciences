@@ -56,7 +56,8 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) - Robust Deep Learning based protein sequence design. [[Paper]](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1)  
 * [DPAM](https://github.com/CongLabCode/DPAM) - A Domain Parser for AlphaFold Models. [[Paper](https://www.biorxiv.org/content/10.1101/2022.09.22.509116v1.full)]  
 * [ModelAngelo](https://github.com/3dem/model-angelo) - Automatic atomic model building program for Electron cryo-microscopy (cryo-EM) maps. [[Paper](https://arxiv.org/abs/2210.00006)]  
-* [DiffDock](https://github.com/gcorso/DiffDock) - Diffusion steps, twists, and turns for Molecular Docking. [[Paper](https://arxiv.org/abs/2210.01776)]. 
+* [DiffDock](https://github.com/gcorso/DiffDock) - Diffusion steps, twists, and turns for Molecular Docking. [[Paper](https://arxiv.org/abs/2210.01776)].  
+* [MoLPC](https://github.com/patrickbryant1/MoLPC) - Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search. [[Article](https://www.nature.com/articles/s41467-022-33729-4)]  
 # Cheminformatics
 * [DRFP](https://github.com/reymond-group/drfp) - An NLP-inspired chemical reaction fingerprint based on basic set arithmetic. [[Article](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d1dd00006c)]. 
 * [DeepChem](https://github.com/deepchem/deepchem) - A high quality Open Source toolchain that democratizes the use of Deep Learning in drug discovery, materials science, quantum chemistry, and biology.
