@@ -82,6 +82,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [MolScore](https://github.com/MorganCThomas/MolScore) - An automated scoring function to facilitate and standardize evaluation of goal-directed generative models for de novo molecular design. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00516-0)]  
 * [SMILES-RNN](https://github.com/MorganCThomas/SMILES-RNN) - A SMILES-based recurrent neural network used for de novo molecule generation with several reinforcement learning algorithms available for molecule optimization. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00646-z)] 
 * [DiffLinker](https://github.com/igashov/difflinker) - Equivariant 3D-Conditional Diffusion Model for molecular linker design. [[Paper](https://arxiv.org/abs/2210.05274)]  
+* [SQUID](https://github.com/keiradams/squid) - Equivariant shape-conditioned generation of 3D molecules for Ligand-Based Drug Design. [[Paper](https://arxiv.org/abs/2210.04893)]  
 # Datasets
 * [DECIMER - Hand-drawn molecule images dataset](https://zenodo.org/record/6456306#.YravvC8w1QI) - A standardised, openly available benchmark dataset of 5088 hand-drawn depictions of diversely picked chemical structures. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9)]  
 * [UniProt](https://www.uniprot.org/) - The world’s leading high-quality, comprehensive and freely accessible resource of protein sequence and functional information.  
