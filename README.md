@@ -17,6 +17,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [PySMILESUtils](https://github.com/MolecularAI/pysmilesutils) - Utilities for working with SMILES based encodings of molecules for Deep Learning (PyTorch oriented).  
 * [SELFIES](https://github.com/aspuru-guzik-group/selfies) - Robust representation of semantically constrained graphs, in particular for molecules in chemistry.
 * [ChemProp](https://github.com/chemprop/chemprop) - Message Passing Neural Networks for molecule property prediction.  
+    * [Evidential Deep Learning for Guided Molecular Property Prediction and Discovery](https://github.com/aamini/chemprop) - Fast and scalable uncertainty quantification for neural molecular property prediction, accelerated optimization, and guided virtual screening. [[Paper](https://pubs.acs.org/doi/10.1021/acscentsci.1c00546)]
 * [mols2grid](https://github.com/cbouy/mols2grid) - Interactive molecule viewer for 2D structures.   
 * [Image to SMILES Generator](https://github.com/syntelly/img2smiles_generator) - Code to generate datasets of pairs "image - sequence" for chemical molecules. [[Article](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmtd.202100069)]. 
 * [Auto3D](https://github.com/isayevlab/Auto3D_pkg) - Automatic generation of the low-energy 3D structures with ANI Neural Network potentials.  
