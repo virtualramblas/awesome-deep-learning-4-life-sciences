@@ -32,6 +32,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [MOSES](https://github.com/molecularsets/moses) - **Mo**lecular **Se**t**s**: a benchmarking platform for Molecular Generation Models. [[Paper]](https://arxiv.org/abs/1811.12823)  
 * [Tartarus](https://github.com/aspuru-guzik-group/Tartarus) - A benchmarking platform for realistic and practical inverse molecular design. [[Paper](https://arxiv.org/abs/2209.12487)]  
 * [Transformer-M](https://github.com/lsj2408/Transformer-M) - One Transformer that can understand both 2D & 3D molecular data. [[Paper](https://arxiv.org/abs/2210.01765)]  
+* [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) - A platform for graph-based molecular generation using graph neural networks.  
 # Proteins
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk) - A online database which provides open access to 992,316 protein structure predictions for the human proteome and other key proteins of interest, to accelerate scientific research.
 * [AlphaFold](https://github.com/deepmind/alphafold) - Open source code for DeepMind's AlphaFold.
