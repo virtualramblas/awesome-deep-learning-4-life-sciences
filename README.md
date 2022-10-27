@@ -87,6 +87,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [SMILES-RNN](https://github.com/MorganCThomas/SMILES-RNN) - A SMILES-based recurrent neural network used for de novo molecule generation with several reinforcement learning algorithms available for molecule optimization. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00646-z)] 
 * [DiffLinker](https://github.com/igashov/difflinker) - Equivariant 3D-Conditional Diffusion Model for molecular linker design. [[Paper](https://arxiv.org/abs/2210.05274)]  
 * [SQUID](https://github.com/keiradams/squid) - Equivariant shape-conditioned generation of 3D molecules for Ligand-Based Drug Design. [[Paper](https://arxiv.org/abs/2210.04893)]  
+* [DiffSBDD](https://github.com/arneschneuing/diffsbdd) - A Euclidean diffusion model for structure-based drug design. [[Paper](https://arxiv.org/abs/2210.13695)]  
 # Datasets
 * [DECIMER - Hand-drawn molecule images dataset](https://zenodo.org/record/6456306#.YravvC8w1QI) - A standardised, openly available benchmark dataset of 5088 hand-drawn depictions of diversely picked chemical structures. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9)]  
 * [UniProt](https://www.uniprot.org/) - The world’s leading high-quality, comprehensive and freely accessible resource of protein sequence and functional information.  
