@@ -64,6 +64,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [MoLPC](https://github.com/patrickbryant1/MoLPC) - Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search. [[Article](https://www.nature.com/articles/s41467-022-33729-4)]  
 * [foldingdiff](https://github.com/microsoft/foldingdiff) - A diffusion model for generating novel protein backbone structures. [[Paper](https://arxiv.org/abs/2209.15611)]  
 * [ProGen](https://github.com/salesforce/progen) - Suite of open-sourced projects and models for protein engineering and design. [[Paper](https://arxiv.org/abs/2004.03497)]  
+* [DeepAb](https://github.com/RosettaCommons/DeepAb) - Antibody structure prediction using interpretable Deep Learning. [[Paper](https://www.sciencedirect.com/science/article/pii/S2666389921002804)]  
 # Cheminformatics
 * [DRFP](https://github.com/reymond-group/drfp) - An NLP-inspired chemical reaction fingerprint based on basic set arithmetic. [[Article](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d1dd00006c)]. 
 * [DeepChem](https://github.com/deepchem/deepchem) - A high quality Open Source toolchain that democratizes the use of Deep Learning in drug discovery, materials science, quantum chemistry, and biology.
