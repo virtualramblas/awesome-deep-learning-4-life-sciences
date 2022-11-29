@@ -111,6 +111,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [Interpretable and Explainable Machine Learning for Materials Science and Chemistry](https://pubs.acs.org/doi/10.1021/accountsmr.1c00244) - Interpretable and Explainable Machine Learning applied to materials science and chemistry.
 * [exmol](https://github.com/ur-whitelab/exmol) - Explainer for black box models that predict molecule properties. [[Article](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc05259d)]  
 * [BERTology](https://github.com/salesforce/provis) - Interpreting Attention in Protein Language Models. [[Paper](https://arxiv.org/pdf/2006.15222v3.pdf)]  
+* [DRPreter](https://github.com/babaling/DRPreter) - Interpretable anticancer drug response prediction using Knowledge-Guided Graph Neural Networks and Transformer. [[Paper](https://www.mdpi.com/1422-0067/23/22/13919)]  
 # Other
 * [nglview](https://github.com/nglviewer/nglview) - A Jupyter widget to interactively view molecular structures and trajectories.  
 * [Panel-Chemistry](https://github.com/marcskovmadsen/panel-chemistry) - Easy exploratory data analysis and build powerful data and viz tools within the domain of Chemistry using Python and HoloViz Panel.  
