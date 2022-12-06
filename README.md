@@ -96,6 +96,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [SQUID](https://github.com/keiradams/squid) - Equivariant shape-conditioned generation of 3D molecules for Ligand-Based Drug Design. [[Paper](https://arxiv.org/abs/2210.04893)]  
 * [DiffSBDD](https://github.com/arneschneuing/diffsbdd) - A Euclidean diffusion model for structure-based drug design. [[Paper](https://arxiv.org/abs/2210.13695)]  
 * [MF-PCBA](https://github.com/davidbuterez/mf-pcba) - Multi-fidelity high-throughput screening benchmarks for drug discovery and Machine Learning. [[Paper](https://chemrxiv.org/engage/chemrxiv/article-details/636fa49b80c9bfb4dc944c1c)]  
+* [Deep Surrogate Docking](https://github.com/ryienh/graph-dock) - Accelerating automated Drug Discovery with Graph Neural Networks. [[Paper](https://arxiv.org/abs/2211.02720)]  
 # Datasets
 * [DECIMER - Hand-drawn molecule images dataset](https://zenodo.org/record/6456306#.YravvC8w1QI) - A standardised, openly available benchmark dataset of 5088 hand-drawn depictions of diversely picked chemical structures. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9)]  
 * [UniProt](https://www.uniprot.org/) - The world’s leading high-quality, comprehensive and freely accessible resource of protein sequence and functional information.  
@@ -111,6 +112,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [gget](https://github.com/pachterlab/gget) - A free, Open Source command-line tool and Python package that enables efficient querying of genomic databases.  
 * [ESM Atlas](https://esmatlas.com) - An open atlas of 617 million metagenomic protein structures.  
 * [Progres](https://github.com/jgreener64/progres) - A Python package to perform fast search structures against pre-embedded structural databases and pre-embed datasets. [[Paper](https://www.biorxiv.org/content/10.1101/2022.11.28.518224v1)]  
+* [ZINC](https://zinc15.docking.org/) - A free public resource for ligand discovery. The database contains over twenty million commercially available molecules in biologically relevant representations that may be downloaded in popular ready-to-dock formats and subsets. [[Paper](https://pubs.acs.org/doi/10.1021/ci3001277)]  
 # Explainable AI
 * [Interpretable and Explainable Machine Learning for Materials Science and Chemistry](https://pubs.acs.org/doi/10.1021/accountsmr.1c00244) - Interpretable and Explainable Machine Learning applied to materials science and chemistry.
 * [exmol](https://github.com/ur-whitelab/exmol) - Explainer for black box models that predict molecule properties. [[Article](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc05259d)]  
