@@ -98,6 +98,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [DiffSBDD](https://github.com/arneschneuing/diffsbdd) - A Euclidean diffusion model for structure-based drug design. [[Paper](https://arxiv.org/abs/2210.13695)]  
 * [MF-PCBA](https://github.com/davidbuterez/mf-pcba) - Multi-fidelity high-throughput screening benchmarks for drug discovery and Machine Learning. [[Paper](https://chemrxiv.org/engage/chemrxiv/article-details/636fa49b80c9bfb4dc944c1c)]  
 * [Deep Surrogate Docking](https://github.com/ryienh/graph-dock) - Accelerating automated Drug Discovery with Graph Neural Networks. [[Paper](https://arxiv.org/abs/2211.02720)]  
+* [HGAN-DTI](https://github.com/Zora-LM/HGAN-DTI) - Heterogeneous Graph Attention Network for Drug-Target Interaction Prediction. [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557346)]  
 # Datasets
 * [DECIMER - Hand-drawn molecule images dataset](https://zenodo.org/record/6456306#.YravvC8w1QI) - A standardised, openly available benchmark dataset of 5088 hand-drawn depictions of diversely picked chemical structures. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9)]  
 * [UniProt](https://www.uniprot.org/) - The world’s leading high-quality, comprehensive and freely accessible resource of protein sequence and functional information.  
