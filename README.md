@@ -39,6 +39,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [SPIB](https://github.com/tiwarylab/State-Predictive-Information-Bottleneck) - SPIB (**S**tate **P**redictive **I**nformation **B**ottleneck) is a Deep Learning-based framework that learns the reaction coordinates from high dimensional molecular simulation trajectories.  [[Paper](https://aip.scitation.org/doi/abs/10.1063/5.0038198)]  
 * [MolT5](https://github.com/blender-nlp/MolT5) - A self-supervised learning framework for pretraining models on a vast amount of unlabeled natural language text and molecule strings. [[Paper](https://arxiv.org/abs/2204.11817)]  
 * [DIONYSUS](https://github.com/aspuru-guzik-group/dionysus) - An extensive study of the calibration and generalizability of probabilistic Machine Learning models on small chemical datasets. [[Paper](https://arxiv.org/abs/2212.01574)]  
+* [NVIDIA-PCQM4Mv2](https://github.com/jfpuget/NVIDIA-PCQM4Mv2) - Heterogenous ensemble of models for Molecular Property Prediction. [[Paper](https://arxiv.org/abs/2211.11035)]  
 # Proteins
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk) - A online database which provides open access to 992,316 protein structure predictions for the human proteome and other key proteins of interest, to accelerate scientific research.
 * [AlphaFold](https://github.com/deepmind/alphafold) - Open source code for DeepMind's AlphaFold.
