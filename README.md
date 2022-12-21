@@ -72,6 +72,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [foldingdiff](https://github.com/microsoft/foldingdiff) - A diffusion model for generating novel protein backbone structures. [[Paper](https://arxiv.org/abs/2209.15611)]  
 * [ProGen](https://github.com/salesforce/progen) - Suite of open-sourced projects and models for protein engineering and design. [[Paper](https://arxiv.org/abs/2004.03497)]  
 * [DeepAb](https://github.com/RosettaCommons/DeepAb) - Antibody structure prediction using interpretable Deep Learning. [[Paper](https://www.sciencedirect.com/science/article/pii/S2666389921002804)]  
+* [cdna-display-proteolysis-pipeline](https://github.com/Rocklin-Lab/cdna-display-proteolysis-pipeline) - Mega-scale experimental analysis of protein folding stability in biology and protein design.  [[Paper](https://www.biorxiv.org/content/10.1101/2022.12.06.519132v3.full)]  
 # Cheminformatics
 * [DRFP](https://github.com/reymond-group/drfp) - An NLP-inspired chemical reaction fingerprint based on basic set arithmetic. [[Article](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d1dd00006c)]. 
 * [DeepChem](https://github.com/deepchem/deepchem) - A high quality Open Source toolchain that democratizes the use of Deep Learning in drug discovery, materials science, quantum chemistry, and biology.
