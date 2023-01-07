@@ -41,6 +41,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [DIONYSUS](https://github.com/aspuru-guzik-group/dionysus) - An extensive study of the calibration and generalizability of probabilistic Machine Learning models on small chemical datasets. [[Paper](https://arxiv.org/abs/2212.01574)]  
 * [NVIDIA-PCQM4Mv2](https://github.com/jfpuget/NVIDIA-PCQM4Mv2) - Heterogenous ensemble of models for Molecular Property Prediction. [[Paper](https://arxiv.org/abs/2211.11035)]  
 * [JAEGER](https://github.com/Novartis/JAEGER) - JT-VAE Generative Modeling (JAEGER) is a deep generative approach for small-molecule design. It is based on the Junction-Tree Variational Auto-Encoder (JT-VAE) method. [[JT-VAE paper](https://arxiv.org/abs/1802.04364)]  
+* [Chem Faiss](https://github.com/ritabratamaiti/Chem-Faiss) - Vector similarity search functionality from Faiss, in conjunction with chemical fingerprinting to build a scalable similarity search architecture for compounds/molecules.  
 # Proteins
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk) - A online database which provides open access to 992,316 protein structure predictions for the human proteome and other key proteins of interest, to accelerate scientific research.
 * [AlphaFold](https://github.com/deepmind/alphafold) - Open source code for DeepMind's AlphaFold.
