@@ -42,6 +42,9 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [NVIDIA-PCQM4Mv2](https://github.com/jfpuget/NVIDIA-PCQM4Mv2) - Heterogenous ensemble of models for Molecular Property Prediction. [[Paper](https://arxiv.org/abs/2211.11035)]  
 * [JAEGER](https://github.com/Novartis/JAEGER) - JT-VAE Generative Modeling (JAEGER) is a deep generative approach for small-molecule design. It is based on the Junction-Tree Variational Auto-Encoder (JT-VAE) method. [[JT-VAE paper](https://arxiv.org/abs/1802.04364)]  
 * [Chem Faiss](https://github.com/ritabratamaiti/Chem-Faiss) - Vector similarity search functionality from Faiss, in conjunction with chemical fingerprinting to build a scalable similarity search architecture for compounds/molecules.  
+* [DECIMER](https://github.com/Kohulan/DECIMER-Image-to-SMILES) - Deep lEarning for Chemical ImagE Recognition (DECIMER): it translates a bitmap image of a molecule into a SMILES. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00469-w)]  
+  * [DECIMER Image Transformer](https://github.com/Kohulan/DECIMER-Image_Transformer) - The DECIMER (Deep lEarning for Chemical ImagE Recognition) 2.1 project.  
+* [STOUT](https://github.com/Kohulan/Smiles-TO-iUpac-Translator) - Transformer based SMILES to IUPAC Translator.  
 # Proteins
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk) - A online database which provides open access to 992,316 protein structure predictions for the human proteome and other key proteins of interest, to accelerate scientific research.
 * [AlphaFold](https://github.com/deepmind/alphafold) - Open source code for DeepMind's AlphaFold.
