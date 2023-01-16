@@ -79,6 +79,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [DeepAb](https://github.com/RosettaCommons/DeepAb) - Antibody structure prediction using interpretable Deep Learning. [[Paper](https://www.sciencedirect.com/science/article/pii/S2666389921002804)]  
 * [cdna-display-proteolysis-pipeline](https://github.com/Rocklin-Lab/cdna-display-proteolysis-pipeline) - Mega-scale experimental analysis of protein folding stability in biology and protein design.  [[Paper](https://www.biorxiv.org/content/10.1101/2022.12.06.519132v3.full)]  
 * [PDBench](https://github.com/wells-wood-research/PDBench) - A dataset and software package for evaluating fixed-backbone sequence design algorithms. [[Paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad027/6986968?login=false)]  
+* [vcMSA](https://github.com/clairemcwhite/vcmsa) - A Python library to run **v**ector **c**lustering **M**ultiple **S**equence **A**lignment. [[Paper](https://www.biorxiv.org/content/10.1101/2022.10.21.513099v1.full)]  
 # Cheminformatics
 * [DRFP](https://github.com/reymond-group/drfp) - An NLP-inspired chemical reaction fingerprint based on basic set arithmetic. [[Article](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d1dd00006c)]. 
 * [DeepChem](https://github.com/deepchem/deepchem) - A high quality Open Source toolchain that democratizes the use of Deep Learning in drug discovery, materials science, quantum chemistry, and biology.
