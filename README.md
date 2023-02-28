@@ -46,6 +46,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
   * [DECIMER Image Transformer](https://github.com/Kohulan/DECIMER-Image_Transformer) - The DECIMER (Deep lEarning for Chemical ImagE Recognition) 2.1 project.  
 * [STOUT](https://github.com/Kohulan/Smiles-TO-iUpac-Translator) - Transformer based SMILES to IUPAC Translator.  
 * [MoLFormer](https://github.com/IBM/molformer) - A large-scale chemical language model designed with the intention of learning a model trained on small molecules which are represented as SMILES strings. [[Paper](https://www.nature.com/articles/s42256-022-00580-7)]  
+* [Mol-CycleGAN](https://github.com/ardigen/mol-cycle-gan) - A generative model for molecular optimization. [[Paper](https://www.researchgate.net/publication/338466527_Mol-CycleGAN_A_generative_model_for_molecular_optimization)]  
 # Proteins
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk) - A online database which provides open access to 992,316 protein structure predictions for the human proteome and other key proteins of interest, to accelerate scientific research.
 * [AlphaFold](https://github.com/deepmind/alphafold) - Open source code for DeepMind's AlphaFold.
