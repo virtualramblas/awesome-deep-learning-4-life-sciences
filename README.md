@@ -89,6 +89,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [Ankh](https://github.com/agemagician/Ankh) - A optimized Protein Language Model. [[Paper](https://arxiv.org/abs/2301.06568v1)]  
 * [TorchProtein](https://torchprotein.ai/) - A Machine Learning library for protein science, built on top of TorchDrug.  
 * [GearNet](https://github.com/DeepGraphLearning/GearNet) - Geometric pretraining methods for Protein Structure Representation Learning. [[Paper](https://arxiv.org/abs/2203.06125)]  
+* [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) - Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models. [[Paper](https://www.biorxiv.org/content/10.1101/2022.12.09.519842v1)]  
 # Cheminformatics
 * [DRFP](https://github.com/reymond-group/drfp) - An NLP-inspired chemical reaction fingerprint based on basic set arithmetic. [[Article](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d1dd00006c)]. 
 * [DeepChem](https://github.com/deepchem/deepchem) - A high quality Open Source toolchain that democratizes the use of Deep Learning in drug discovery, materials science, quantum chemistry, and biology.
