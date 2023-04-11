@@ -52,6 +52,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [molplotly](https://github.com/wjm41/molplotly) - An add-on to Plotly built on RDKit which allows 2D images of molecules to be shown in Plotly figures when hovering over the data points.  
 * [MolForge](https://github.com/knu-lcbc/MolForge) - Neural-machine-translation based models that translate a set of various structural fingerprints to conventional text-based molecular representations, such as SMILES and SELFIES.  [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00693-0)]  
 * [EDM](https://github.com/ehoogeboom/e3_diffusion_for_molecules) - Equivariant Diffusion for Molecule Generation in 3D. [[Paper](https://arxiv.org/abs/2203.17003)]  
+* [SELFormer](https://github.com/hubiodatalab/selformer) - Molecular Representation Learning via SELFIES Language Models. [[Paper](https://arxiv.org/abs/2304.04662)]  
 # Proteins
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk) - A online database which provides open access to 992,316 protein structure predictions for the human proteome and other key proteins of interest, to accelerate scientific research.
 * [AlphaFold](https://github.com/deepmind/alphafold) - Open source code for DeepMind's AlphaFold.
