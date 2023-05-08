@@ -54,6 +54,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [EDM](https://github.com/ehoogeboom/e3_diffusion_for_molecules) - Equivariant Diffusion for Molecule Generation in 3D. [[Paper](https://arxiv.org/abs/2203.17003)]  
 * [SELFormer](https://github.com/hubiodatalab/selformer) - Molecular Representation Learning via SELFIES Language Models. [[Paper](https://arxiv.org/abs/2304.04662)]  
 * [Regression Transformer](https://github.com/GT4SD/gt4sd-core/tree/main/examples/regression_transformer) - Concurrent sequence regression and generation for molecular language modelling. [[Paper](https://www.nature.com/articles/s42256-023-00639-z)]  
+* [Bio-Diffusion](https://github.com/BioinfoMachineLearning/bio-diffusion) - A PyTorch hub of denoising diffusion probabilistic models designed to generate novel biological data. [[Paper](https://arxiv.org/abs/2302.04313)]  
 # Proteins
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk) - A online database which provides open access to 992,316 protein structure predictions for the human proteome and other key proteins of interest, to accelerate scientific research.
 * [AlphaFold](https://github.com/deepmind/alphafold) - Open source code for DeepMind's AlphaFold.
