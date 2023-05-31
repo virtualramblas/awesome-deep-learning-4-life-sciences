@@ -145,6 +145,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [Progres](https://github.com/jgreener64/progres) - A Python package to perform fast search structures against pre-embedded structural databases and pre-embed datasets. [[Paper](https://www.biorxiv.org/content/10.1101/2022.11.28.518224v1)]  
 * [ZINC](https://zinc15.docking.org/) - A free public resource for ligand discovery. The database contains over twenty million commercially available molecules in biologically relevant representations that may be downloaded in popular ready-to-dock formats and subsets. [[Paper](https://pubs.acs.org/doi/10.1021/ci3001277)]  
 * [Papyrus](https://github.com/CDDLeiden/Papyrus-scripts) - A large-scale curated dataset aimed at bioactivity predictions. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00672-x)]  
+* [MISATO](https://github.com/t7morgen/misato-dataset/) - Machine Learning dataset of protein-ligand complexes for structure-based drug discovery. [[Paper](https://www.biorxiv.org/content/10.1101/2023.05.24.542082v2)]  
 # Explainable AI
 * [Interpretable and Explainable Machine Learning for Materials Science and Chemistry](https://pubs.acs.org/doi/10.1021/accountsmr.1c00244) - Interpretable and Explainable Machine Learning applied to materials science and chemistry.
 * [exmol](https://github.com/ur-whitelab/exmol) - Explainer for black box models that predict molecule properties. [[Article](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc05259d)]  
