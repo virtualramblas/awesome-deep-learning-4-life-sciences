@@ -128,6 +128,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [Deep Surrogate Docking](https://github.com/ryienh/graph-dock) - Accelerating automated Drug Discovery with Graph Neural Networks. [[Paper](https://arxiv.org/abs/2211.02720)]  
 * [HGAN-DTI](https://github.com/Zora-LM/HGAN-DTI) - Heterogeneous Graph Attention Network for Drug-Target Interaction Prediction. [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557346)]  
 * [MolSkill](https://github.com/microsoft/molskill) - Learning chemical intuition from humans in the loop. [[Paper](https://chemrxiv.org/engage/chemrxiv/article-details/63f89282897b18336f0c5a55)]  
+* [AI-Bind](https://github.com/Barabasi-Lab/AI-Bind/) - Interpretable AI pipeline improving binding predictions for novel protein targets and ligands. [[Paper](https://www.nature.com/articles/s41467-023-37572-z)]  
 # Datasets
 * [DECIMER - Hand-drawn molecule images dataset](https://zenodo.org/record/6456306#.YravvC8w1QI) - A standardised, openly available benchmark dataset of 5088 hand-drawn depictions of diversely picked chemical structures. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9)]  
 * [UniProt](https://www.uniprot.org/) - The world’s leading high-quality, comprehensive and freely accessible resource of protein sequence and functional information.  
