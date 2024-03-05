@@ -79,7 +79,8 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [Bio Embeddings](https://github.com/sacdallago/bio_embeddings) - General purpose Python embedders based on open models trained on biological sequence representations. [[Paper](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.113)]  
 * [Uni-Fold](https://github.com/dptech-corp/Uni-Fold) - An Open Source platform for developing protein models beyond AlphaFold. [[Paper](https://www.biorxiv.org/content/10.1101/2022.08.04.502811v1)]  
 * [AF2Rank](https://github.com/jproney/AF2Rank) - State-of-the-art estimation of protein model accuracy using AlphaFold. [[Paper](https://www.biorxiv.org/content/10.1101/2022.03.11.484043v3)]  
-* [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) - Robust Deep Learning based protein sequence design. [[Paper]](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1)  
+* [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) - Robust Deep Learning based protein sequence design. [[Paper]](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1)
+  * [LigandMPNN](https://github.com/dauparas/LigandMPNN) - Atomic context-conditioned protein sequence design. [[Paper](https://www.biorxiv.org/content/10.1101/2023.12.22.573103v1)]  
 * [DPAM](https://github.com/CongLabCode/DPAM) - A Domain Parser for AlphaFold Models. [[Paper](https://www.biorxiv.org/content/10.1101/2022.09.22.509116v1.full)]  
 * [ModelAngelo](https://github.com/3dem/model-angelo) - Automatic atomic model building program for Electron cryo-microscopy (cryo-EM) maps. [[Paper](https://arxiv.org/abs/2210.00006)]  
 * [DiffDock](https://github.com/gcorso/DiffDock) - Diffusion steps, twists, and turns for Molecular Docking. [[Paper](https://arxiv.org/abs/2210.01776)].  
