@@ -98,7 +98,8 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) - Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models. [[Paper](https://www.biorxiv.org/content/10.1101/2022.12.09.519842v1)]  
 * [TargetGAN](https://github.com/viko-3/TargetGAN) - A deep generative model for drug design from protein target sequence. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00702-2)]  
 * [Iterative_masking](https://github.com/Bitbol-Lab/Iterative_masking) - An iterative method that directly employs the masked language modeling objective to generate sequences using a [MSA Transformer](https://www.biorxiv.org/content/10.1101/2021.02.12.430858v3.full). [[Paper](https://elifesciences.org/articles/79854)]
-* [protpardelle](https://github.com/ProteinDesignLab/protpardelle) - An all-atom protein generative model. [[Paper](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)]  
+* [protpardelle](https://github.com/ProteinDesignLab/protpardelle) - An all-atom protein generative model. [[Paper](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1.full)]
+* [ProteinGLUE](https://github.com/ibivu/protein-glue) - A multi-task benchmark suite for self-supervised protein modeling. [[Paper](https://www.nature.com/articles/s41598-022-19608-4)]  
 # Cheminformatics
 * [DRFP](https://github.com/reymond-group/drfp) - An NLP-inspired chemical reaction fingerprint based on basic set arithmetic. [[Article](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d1dd00006c)]. 
 * [DeepChem](https://github.com/deepchem/deepchem) - A high quality Open Source toolchain that democratizes the use of Deep Learning in drug discovery, materials science, quantum chemistry, and biology.
