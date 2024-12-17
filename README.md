@@ -4,8 +4,7 @@ Contributions, suggestions and stars are welcome!
 ![Splash Image](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/images/dallemini_2022-6-27_15-56-36-cropped.png)  
 Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/dalle-mini) by prompting "A fancy protein folding".  
   
-*** **30/11/2022 Update: Coming to this repo on 2023: I will start adding my feedback on my attempts to reproduce the code and results for projects added to this list. Due to multiple job projects management, conferences attendance and personal matters, I didn't have a chance so far to share my findings. Will start doing it in a couple of months.** ***  
-*** **28/02/2023 Update: In a month you could start seeing some green, yellow or red icons appearing close to project names in the lists below. They refer to the outcome of my attempts to reproduce the associated code. More explanation will be provided later. Thanks for your patience.** ***  
+  
 # Table of contents
 [Molecules](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/README.md#molecules)  
 [Proteins](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/README.md#proteins)  
