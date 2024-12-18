@@ -54,7 +54,8 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [SELFormer](https://github.com/hubiodatalab/selformer) - Molecular Representation Learning via SELFIES Language Models. [[Paper](https://arxiv.org/abs/2304.04662)]  
 * [Regression Transformer](https://github.com/GT4SD/gt4sd-core/tree/main/examples/regression_transformer) - Concurrent sequence regression and generation for molecular language modelling. [[Paper](https://www.nature.com/articles/s42256-023-00639-z)]  
 * [Bio-Diffusion](https://github.com/BioinfoMachineLearning/bio-diffusion) - A PyTorch hub of denoising diffusion probabilistic models designed to generate novel biological data. [[Paper](https://arxiv.org/abs/2302.04313)]
-* [InstructMol](https://github.com/idea-xl/instructmol) - Multi-Modal integration for building a versatile and reliable molecular assistant in Drug Discovery. [[Paper](https://arxiv.org/abs/2311.16208)]  
+* [InstructMol](https://github.com/idea-xl/instructmol) - Multi-Modal integration for building a versatile and reliable molecular assistant in Drug Discovery. [[Paper](https://arxiv.org/abs/2311.16208)]
+* [MHNfs](https://github.com/ml-jku/MHNfs/tree/main) - A few-shot drug discovery model which consists of a context module, a cross-attention module, and a similarity module. [[Paper](https://openreview.net/pdf?id=XrMWUuEevr)]  
 # Proteins
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk) - A online database which provides open access to 992,316 protein structure predictions for the human proteome and other key proteins of interest, to accelerate scientific research.
 * [AlphaFold](https://github.com/deepmind/alphafold) - Open source code for DeepMind's AlphaFold.
