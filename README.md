@@ -137,7 +137,8 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [MolSkill](https://github.com/microsoft/molskill) - Learning chemical intuition from humans in the loop. [[Paper](https://chemrxiv.org/engage/chemrxiv/article-details/63f89282897b18336f0c5a55)]  
 * [AI-Bind](https://github.com/Barabasi-Lab/AI-Bind/) - Interpretable AI pipeline improving binding predictions for novel protein targets and ligands. [[Paper](https://www.nature.com/articles/s41467-023-37572-z)]
 * [ESP](https://github.com/AlexanderKroll/ESP) - A general model to predict small molecule substrates of enzymes based on Machine and Deep Learning. [[Paper](https://www.nature.com/articles/s41467-023-38347-2)]
-* [HyperPCM](https://github.com/ml-jku/hyper-dti) - Robust task-conditioned modeling of drug-target interactions. [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01417)  
+* [HyperPCM](https://github.com/ml-jku/hyper-dti) - Robust task-conditioned modeling of drug-target interactions. [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01417)
+* [Umol](https://github.com/patrickbryant1/Umol) - Structure prediction of protein-ligand complexes from sequence information. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.11.03.565471v1)  
 # Datasets
 * [DECIMER - Hand-drawn molecule images dataset](https://zenodo.org/record/6456306#.YravvC8w1QI) - A standardised, openly available benchmark dataset of 5088 hand-drawn depictions of diversely picked chemical structures. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9)]  
 * [UniProt](https://www.uniprot.org/) - The world’s leading high-quality, comprehensive and freely accessible resource of protein sequence and functional information.  
