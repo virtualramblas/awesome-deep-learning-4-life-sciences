@@ -102,7 +102,8 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [ProteinGLUE](https://github.com/ibivu/protein-glue) - A multi-task benchmark suite for self-supervised protein modeling. [[Paper](https://www.nature.com/articles/s41598-022-19608-4)]
 * [MassiveFold](https://github.com/GBLille/MassiveFold) - A tool that allows to massively expand the sampling of structure predictions by improving the computing of AlphaFold based predictions. [[Paper](https://www.nature.com/articles/s43588-024-00714-4)]
 * [PLAID](https://github.com/amyxlu/plaid) - PLAID (Protein Latent Induced Diffusion). [[Paper](https://www.biorxiv.org/content/10.1101/2024.12.02.626353v1)]
-* [Cfold](https://github.com/patrickbryant1/Cfold) - Structure prediction of alternative protein conformations. [[Paper](https://www.nature.com/articles/s41467-024-51507-2)]  
+* [Cfold](https://github.com/patrickbryant1/Cfold) - Structure prediction of alternative protein conformations. [[Paper](https://www.nature.com/articles/s41467-024-51507-2)]
+* [PLMSearch](https://github.com/maovshao/PLMSearch/tree/main) - A protein language model that powers accurate and fast sequence search for remote homology. [[Paper](https://www.nature.com/articles/s41467-024-46808-5)]  
 # Cheminformatics
 * [DRFP](https://github.com/reymond-group/drfp) - An NLP-inspired chemical reaction fingerprint based on basic set arithmetic. [[Article](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d1dd00006c)]. 
 * [DeepChem](https://github.com/deepchem/deepchem) - A high quality Open Source toolchain that democratizes the use of Deep Learning in drug discovery, materials science, quantum chemistry, and biology.
