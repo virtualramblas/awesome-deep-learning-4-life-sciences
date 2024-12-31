@@ -4,7 +4,8 @@ Contributions, suggestions and stars are welcome!
 ![Splash Image](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/images/dallemini_2022-6-27_15-56-36-cropped.png)  
 Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/dalle-mini) by prompting "A fancy protein folding".  
   
-  
+:hammer_and_wrench: **Work in progress!!!** :hammer_and_wrench:  
+**Papers and models published before 2023 are going to be moved to the [Archived](docs/Archived.md) section of this repo. You should have already noticed some disappering from this page.**  
 # Table of contents
 [Molecules](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/README.md#molecules)  
 [Proteins](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/README.md#proteins)  
@@ -23,34 +24,19 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [mols2grid](https://github.com/cbouy/mols2grid) - Interactive molecule viewer for 2D structures.   
 * [Image to SMILES Generator](https://github.com/syntelly/img2smiles_generator) - Code to generate datasets of pairs "image - sequence" for chemical molecules. [[Article](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmtd.202100069)]. 
 * [Auto3D](https://github.com/isayevlab/Auto3D_pkg) - Automatic generation of the low-energy 3D structures with ANI Neural Network potentials.  
-* [MolDQN](https://github.com/google-research/google-research/tree/master/mol_dqn) - Optimization of molecules via Deep Reinforcement Learning. [[Paper](https://arxiv.org/pdf/1810.08678v3.pdf)]  
-* [Pasithea](https://github.com/aspuru-guzik-group/Pasithea) - Deep Molecular Dreaming: Inverse Machine Learning for de-novo molecular design and interpretability with surjective representations. [[Paper](https://arxiv.org/pdf/2012.09712v1.pdf)]  
-* [fragment-based-dgm](https://github.com/marcopodda/fragment-based-dgm) - A Deep Generative Model for fragment-based molecule generation. [[Paper](https://arxiv.org/pdf/2002.12826v1.pdf)]  
-* [MAT](https://github.com/ardigen/MAT) - **M**olecule **A**ttention **T**ransformer for molecular prediction tasks. [[Paper](https://arxiv.org/pdf/2002.08264v1.pdf)]. 
 * [Specklit](https://github.com/avrabyt/st-speckmol) - A Streamlit Component for creating [Speck](https://github.com/wwwtyro/speck) molecular structures within a Streamlit Web app.  
 * [molcloud](https://github.com/whitead/molcloud) - A package to draw molecules in a big canvas packed together.  
 * [Img2Mol](https://github.com/bayer-science-for-a-better-life/Img2Mol) - Inferring molecules from pictures.  
-* [GLAMOUR](https://github.com/learningmatter-mit/GLAMOUR) - Chemistry-informed Macromolecule Graph Representation for Similarity Computation, Unsupervised and Supervised Learning. [[Paper](https://iopscience.iop.org/article/10.1088/2632-2153/ac545e)]  
 * [MOSES](https://github.com/molecularsets/moses) - **Mo**lecular **Se**t**s**: a benchmarking platform for Molecular Generation Models. [[Paper]](https://arxiv.org/abs/1811.12823)  
 * [Tartarus](https://github.com/aspuru-guzik-group/Tartarus) - A benchmarking platform for realistic and practical inverse molecular design. [[Paper](https://arxiv.org/abs/2209.12487)]  
-* [Transformer-M](https://github.com/lsj2408/Transformer-M) - One Transformer that can understand both 2D & 3D molecular data. [[Paper](https://arxiv.org/abs/2210.01765)]  
 * [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) - A platform for graph-based molecular generation using graph neural networks.  
-* [SynNet](https://github.com/wenhao-gao/SynNet) - An amortized approach to synthetic tree generation using neural networks. This model can serve as both a synthesis planning tool and as a tool for synthesizable molecular design.  [[Paper](https://arxiv.org/abs/2110.06389)]  
-* [SPIB](https://github.com/tiwarylab/State-Predictive-Information-Bottleneck) - SPIB (**S**tate **P**redictive **I**nformation **B**ottleneck) is a Deep Learning-based framework that learns the reaction coordinates from high dimensional molecular simulation trajectories.  [[Paper](https://aip.scitation.org/doi/abs/10.1063/5.0038198)]  
-* [MolT5](https://github.com/blender-nlp/MolT5) - A self-supervised learning framework for pretraining models on a vast amount of unlabeled natural language text and molecule strings. [[Paper](https://arxiv.org/abs/2204.11817)]  
-* [DIONYSUS](https://github.com/aspuru-guzik-group/dionysus) - An extensive study of the calibration and generalizability of probabilistic Machine Learning models on small chemical datasets. [[Paper](https://arxiv.org/abs/2212.01574)]  
-* [NVIDIA-PCQM4Mv2](https://github.com/jfpuget/NVIDIA-PCQM4Mv2) - Heterogenous ensemble of models for Molecular Property Prediction. [[Paper](https://arxiv.org/abs/2211.11035)]  
-* [JAEGER](https://github.com/Novartis/JAEGER) - JT-VAE Generative Modeling (JAEGER) is a deep generative approach for small-molecule design. It is based on the Junction-Tree Variational Auto-Encoder (JT-VAE) method. [[JT-VAE paper](https://arxiv.org/abs/1802.04364)]  
 * [Chem Faiss](https://github.com/ritabratamaiti/Chem-Faiss) - Vector similarity search functionality from Faiss, in conjunction with chemical fingerprinting to build a scalable similarity search architecture for compounds/molecules.  
 * [DECIMER](https://github.com/Kohulan/DECIMER-Image-to-SMILES) - Deep lEarning for Chemical ImagE Recognition (DECIMER): it translates a bitmap image of a molecule into a SMILES. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00469-w)]  
   * [DECIMER Image Transformer](https://github.com/Kohulan/DECIMER-Image_Transformer) - The DECIMER (Deep lEarning for Chemical ImagE Recognition) 2.1 project.  
 * [STOUT](https://github.com/Kohulan/Smiles-TO-iUpac-Translator) - Transformer based SMILES to IUPAC Translator.  
-* [MoLFormer](https://github.com/IBM/molformer) - A large-scale chemical language model designed with the intention of learning a model trained on small molecules which are represented as SMILES strings. [[Paper](https://www.nature.com/articles/s42256-022-00580-7)]  
-* [Mol-CycleGAN](https://github.com/ardigen/mol-cycle-gan) - A generative model for molecular optimization. [[Paper](https://www.researchgate.net/publication/338466527_Mol-CycleGAN_A_generative_model_for_molecular_optimization)]  
 * [CLAMP](https://github.com/ml-jku/clamp) - CLAMP (Contrastive Language-Assay Molecule Pre-Training): natural language to predict the most relevant molecule, given a textual description of a bioassay, without training samples. [[Paper](https://arxiv.org/abs/2303.03363v1)].  
 * [molplotly](https://github.com/wjm41/molplotly) - An add-on to Plotly built on RDKit which allows 2D images of molecules to be shown in Plotly figures when hovering over the data points.  
 * [MolForge](https://github.com/knu-lcbc/MolForge) - Neural-machine-translation based models that translate a set of various structural fingerprints to conventional text-based molecular representations, such as SMILES and SELFIES.  [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00693-0)]  
-* [EDM](https://github.com/ehoogeboom/e3_diffusion_for_molecules) - Equivariant Diffusion for Molecule Generation in 3D. [[Paper](https://arxiv.org/abs/2203.17003)]  
 * [SELFormer](https://github.com/hubiodatalab/selformer) - Molecular Representation Learning via SELFIES Language Models. [[Paper](https://arxiv.org/abs/2304.04662)]  
 * [Regression Transformer](https://github.com/GT4SD/gt4sd-core/tree/main/examples/regression_transformer) - Concurrent sequence regression and generation for molecular language modelling. [[Paper](https://www.nature.com/articles/s42256-023-00639-z)]  
 * [Bio-Diffusion](https://github.com/BioinfoMachineLearning/bio-diffusion) - A PyTorch hub of denoising diffusion probabilistic models designed to generate novel biological data. [[Paper](https://arxiv.org/abs/2302.04313)]
