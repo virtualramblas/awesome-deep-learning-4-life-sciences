@@ -4,8 +4,7 @@ Contributions, suggestions and stars are welcome!
 ![Splash Image](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/images/dallemini_2022-6-27_15-56-36-cropped.png)  
 Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/dalle-mini) by prompting "A fancy protein folding".  
   
-:hammer_and_wrench: **Work in progress!!!** :hammer_and_wrench:  
-**Papers and models published before 2023 are going to be moved to the [Archived](docs/Archived.md) section of this repo. You should have already noticed some disappering from this page.**  
+:point_right: **Papers and models published before 2023 have been moved to the [Archived](docs/Archived.md) section of this repo.** :point_left:    
 # Table of contents
 [Molecules](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/README.md#molecules)  
 [Proteins](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/README.md#proteins)  
@@ -70,7 +69,8 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [MassiveFold](https://github.com/GBLille/MassiveFold) - A tool that allows to massively expand the sampling of structure predictions by improving the computing of AlphaFold based predictions. [[Paper](https://www.nature.com/articles/s43588-024-00714-4)]
 * [PLAID](https://github.com/amyxlu/plaid) - PLAID (Protein Latent Induced Diffusion). [[Paper](https://www.biorxiv.org/content/10.1101/2024.12.02.626353v1)]
 * [Cfold](https://github.com/patrickbryant1/Cfold) - Structure prediction of alternative protein conformations. [[Paper](https://www.nature.com/articles/s41467-024-51507-2)]
-* [PLMSearch](https://github.com/maovshao/PLMSearch/tree/main) - A protein language model that powers accurate and fast sequence search for remote homology. [[Paper](https://www.nature.com/articles/s41467-024-46808-5)]  
+* [PLMSearch](https://github.com/maovshao/PLMSearch/tree/main) - A protein language model that powers accurate and fast sequence search for remote homology. [[Paper](https://www.nature.com/articles/s41467-024-46808-5)]
+* [Raygun](https://github.com/rohitsinghlab/raygun) - Template-based protein design. [[Paper](https://www.biorxiv.org/content/10.1101/2024.08.13.607858v1)]  
 # Cheminformatics
 * [DRFP](https://github.com/reymond-group/drfp) - An NLP-inspired chemical reaction fingerprint based on basic set arithmetic. [[Article](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d1dd00006c)]. 
 * [DeepChem](https://github.com/deepchem/deepchem) - A high quality Open Source toolchain that democratizes the use of Deep Learning in drug discovery, materials science, quantum chemistry, and biology.
