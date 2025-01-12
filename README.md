@@ -142,4 +142,5 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [Jupyter Dock](https://github.com/AngelRuizMoreno/Jupyter_Dock) - Molecular Docking integrated in Jupyter notebooks.  
 * [AugLiChem](https://github.com/BaratiLab/AugLiChem) - A data augmentation library for chemical structures. [[Paper](https://arxiv.org/abs/2111.15112)]  
 * [Chemiscope](https://github.com/lab-cosmo/chemiscope) - An interactive structure/property explorer for materials and molecules. While the core project is implemented in a different programming language, it has been added to this list because it provides Python extensions that allow using it within a Jupyter or Colab notebook.  
-* [ReMODE](https://github.com/micahwang/ReMode/tree/master) - A Deep Learning-based web server for target-specific drug design. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00665-w)]  
+* [ReMODE](https://github.com/micahwang/ReMode/tree/master) - A Deep Learning-based web server for target-specific drug design. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00665-w)]
+* [NoLabs](https://github.com/BasedLabs/NoLabs) - An Open Source biolab that lets you run experiments with the latest state-of-the-art models, bioinformatics tools and scalable no-code workflow engine for bio research.  
