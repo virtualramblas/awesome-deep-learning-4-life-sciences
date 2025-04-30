@@ -42,7 +42,8 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [InstructMol](https://github.com/idea-xl/instructmol) - Multi-Modal integration for building a versatile and reliable molecular assistant in Drug Discovery. [[Paper](https://arxiv.org/abs/2311.16208)]
 * [MHNfs](https://github.com/ml-jku/MHNfs/tree/main) - A few-shot drug discovery model which consists of a context module, a cross-attention module, and a similarity module. [[Paper](https://openreview.net/pdf?id=XrMWUuEevr)]
 * [Small Molecule Autoencoders](https://github.com/MarieOestreich/small-molecule-autoencoders) - Architecture Engineering to optimize latent space utility and sustainability. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00817-0)]
-* [Dionysus](https://pubs.rsc.org/en/content/articlelanding/2023/DD/D2DD00146B) - Analysis of calibration, performance, and generalizability of probabilistic models on small molecular datasets. [[Paper](https://github.com/aspuru-guzik-group/dionysus)]  
+* [Dionysus](https://pubs.rsc.org/en/content/articlelanding/2023/DD/D2DD00146B) - Analysis of calibration, performance, and generalizability of probabilistic models on small molecular datasets. [[Paper](https://github.com/aspuru-guzik-group/dionysus)]
+* [Uncertainty Quantification with Graph Neural Networks for Efficient Molecular Design](https://github.com/Lung-Yi/uncmoo/tree/v1.0.0) - Uncertainty Quantification with Graph Neural Networks for Efficient Molecular Design. [[Paper](https://www.nature.com/articles/s41467-025-58503-0)]
 # Proteins
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk) - A online database which provides open access to 992,316 protein structure predictions for the human proteome and other key proteins of interest, to accelerate scientific research.
 * [AlphaFold](https://github.com/deepmind/alphafold) - Open source code for DeepMind's AlphaFold.
