@@ -115,6 +115,7 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [sChemNET](https://github.com/diegogalpy/sChemNET/) - A Deep Learning framework for predicting small molecules targeting microRNA function. [[Paper](https://www.nature.com/articles/s41467-024-49813-w)]
 * [PMDM](https://github.com/Layne-Huang/PMDM/tree/main) - A dual diffusion model that enables 3D binding bioactive molecule generation and leads optimization given target pockets. [[Paper](https://www.nature.com/articles/s41467-024-46569-1)]
 * [DeepICL](https://github.com/ACE-KAIST/DeepICL) - 3D Molecular Generative Framework for Interaction-guided Drug Design. [[Paper](https://www.nature.com/articles/s41467-024-47011-2)]
+* [Token-Mol](https://github.com/jkwang93/Token-Mol) - Tokenized drug design with large language model. [[Paper](https://www.nature.com/articles/s41467-025-59628-y)]  
 # Datasets
 * [DECIMER - Hand-drawn molecule images dataset](https://zenodo.org/record/6456306#.YravvC8w1QI) - A standardised, openly available benchmark dataset of 5088 hand-drawn depictions of diversely picked chemical structures. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9)]  
 * [UniProt](https://www.uniprot.org/) - The world’s leading high-quality, comprehensive and freely accessible resource of protein sequence and functional information.  
