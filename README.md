@@ -75,7 +75,8 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [Raygun](https://github.com/rohitsinghlab/raygun) - Template-based protein design. [[Paper](https://www.biorxiv.org/content/10.1101/2024.08.13.607858v1)]
 * [SaProt](https://github.com/westlake-repl/SaProt) - Protein Language Model with Structural Alphabet. [[Paper](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v1)]
 * [Efficient Evolution](https://github.com/brianhie/efficient-evolution) - Efficient evolution from protein language models. [[Paper](https://www.nature.com/articles/s41587-023-01763-2)]
-* [GNN-Bottleneck](https://github.com/smiles724/GNN-Bottleneck) - Representation Bottleneck of Graph Neural Networks (GNNs). [[Paper](https://www.nature.com/articles/s42003-023-05133-1)]  
+* [GNN-Bottleneck](https://github.com/smiles724/GNN-Bottleneck) - Representation Bottleneck of Graph Neural Networks (GNNs). [[Paper](https://www.nature.com/articles/s42003-023-05133-1)]
+* [OpenComplex](https://github.com/baaihealth/OpenComplex) - Trainable PyTorch framework for developing protein, RNA and complex models.  
 # Cheminformatics
 * [DRFP](https://github.com/reymond-group/drfp) - An NLP-inspired chemical reaction fingerprint based on basic set arithmetic. [[Article](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d1dd00006c)]. 
 * [DeepChem](https://github.com/deepchem/deepchem) - A high quality Open Source toolchain that democratizes the use of Deep Learning in drug discovery, materials science, quantum chemistry, and biology.
