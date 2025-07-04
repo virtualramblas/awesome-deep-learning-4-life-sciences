@@ -118,7 +118,8 @@ Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/d
 * [PMDM](https://github.com/Layne-Huang/PMDM/tree/main) - A dual diffusion model that enables 3D binding bioactive molecule generation and leads optimization given target pockets. [[Paper](https://www.nature.com/articles/s41467-024-46569-1)]
 * [DeepICL](https://github.com/ACE-KAIST/DeepICL) - 3D Molecular Generative Framework for Interaction-guided Drug Design. [[Paper](https://www.nature.com/articles/s41467-024-47011-2)]
 * [Token-Mol](https://github.com/jkwang93/Token-Mol) - Tokenized drug design with large language model. [[Paper](https://www.nature.com/articles/s41467-025-59628-y)]
-* [DiffSBDD](https://github.com/arneschneuing/DiffSBDD) - A Euclidean diffusion model for structure-based drug design. [[Paper](https://www.nature.com/articles/s43588-024-00737-x)]  
+* [DiffSBDD](https://github.com/arneschneuing/DiffSBDD) - A Euclidean diffusion model for structure-based drug design. [[Paper](https://www.nature.com/articles/s43588-024-00737-x)]
+* [IntFold](https://github.com/IntelliGen-AI/IntFold) - A controllable foundation model for general and specialized biomolecular structure prediction. [[Paper](https://arxiv.org/abs/2507.02025)]  
 # Datasets
 * [DECIMER - Hand-drawn molecule images dataset](https://zenodo.org/record/6456306#.YravvC8w1QI) - A standardised, openly available benchmark dataset of 5088 hand-drawn depictions of diversely picked chemical structures. [[Article](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9)]  
 * [UniProt](https://www.uniprot.org/) - The world’s leading high-quality, comprehensive and freely accessible resource of protein sequence and functional information.  
