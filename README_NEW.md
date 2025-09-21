@@ -24,4 +24,14 @@ To be written.
 ---
 
 ## :hammer_and_wrench: Tools, Frameworks & Libraries
-To be written.  
+* [nglview](https://github.com/nglviewer/nglview) - A Jupyter widget to interactively view molecular structures and trajectories.  
+* [Panel-Chemistry](https://github.com/marcskovmadsen/panel-chemistry) - Easy exploratory data analysis and build powerful data and viz tools within the domain of Chemistry using Python and HoloViz Panel.  
+* [libmolgrid](https://github.com/gnina/libmolgrid) - A comprehensive library for fast, GPU accelerated molecular gridding for Deep Learning workflows. [[Paper](https://arxiv.org/pdf/1912.04822.pdf)]  
+* [stmol](https://github.com/napoles-uach/stmol) - A component for building interactive molecular 3D visualizations within Streamlit web applications.  
+* [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) - An add-on and set of pre-made nodes for Blender & Blender’s Geometry Nodes, to import, animate and manipulate molecular data.  
+* [Jupyter Dock](https://github.com/AngelRuizMoreno/Jupyter_Dock) - Molecular Docking integrated in Jupyter notebooks.  
+* [AugLiChem](https://github.com/BaratiLab/AugLiChem) - A data augmentation library for chemical structures. [[Paper](https://arxiv.org/abs/2111.15112)]  
+* [Chemiscope](https://github.com/lab-cosmo/chemiscope) - An interactive structure/property explorer for materials and molecules. While the core project is implemented in a different programming language, it has been added to this list because it provides Python extensions that allow using it within a Jupyter or Colab notebook.  
+* [ReMODE](https://github.com/micahwang/ReMode/tree/master) - A Deep Learning-based web server for target-specific drug design. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00665-w)]
+* [NoLabs](https://github.com/BasedLabs/NoLabs) - An Open Source biolab that lets you run experiments with the latest state-of-the-art models, bioinformatics tools and scalable no-code workflow engine for bio research.
+* [Geom3D](https://github.com/chao1224/Geom3D) - A platform for geometric modeling on 3D structures. [[Paper](https://openreview.net/forum?id=ygXSNrIU1p)]    
