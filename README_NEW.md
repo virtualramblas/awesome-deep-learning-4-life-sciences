@@ -7,10 +7,10 @@ Contributions welcome! Please submit PRs with new papers, repos, datasets, or to
   
 ## :card_index: Cross-Link Matrix (Methods × Domains)
 
-| Domain / Method          | CNNs | Transformers | GNNs | GANs | VAEs | Diffusion |
-|---------------------------|------|--------------|------|------|------|-------------------|
-| Proteomics & Protein Folding | – | ✅ ([AlphaFold](https://github.com/deepmind/alphafold), [Feature Reuse and Scaling](https://github.com/microsoft/protein-transfer), [SaProt](https://github.com/westlake-repl/SaProt), [PLMSearch](https://github.com/maovshao/PLMSearch/tree/main), [Cfold](https://github.com/patrickbryant1/Cfold)) | – | – | – | ✅ [PLAID](https://github.com/amyxlu/plaid) |
-| Drug Discovery & Design    | – | ✅ [Token-Mol](https://github.com/jkwang93/Token-Mol) | ✅ ([HGAN-DTI](https://github.com/Zora-LM/HGAN-DTI), [Deep Surrogate Docking](https://github.com/ryienh/graph-dock)) | - | – | ✅ ([DiffSBDD](https://github.com/arneschneuing/DiffSBDD), [PMDM](https://github.com/Layne-Huang/PMDM/tree/main), [DiffLinker](https://github.com/igashov/difflinker)) |
+| Domain / Method          | Transformers | GNNs | GANs | VAEs | Diffusion | Other |
+|---------------------------|--------------|------|------|------|-------------------|-------|
+| Proteomics & Protein Folding | ✅ ([Feature Reuse and Scaling](https://github.com/microsoft/protein-transfer), [SaProt](https://github.com/westlake-repl/SaProt), [PLMSearch](https://github.com/maovshao/PLMSearch/tree/main), [Cfold](https://github.com/patrickbryant1/Cfold), [protpardelle](https://github.com/ProteinDesignLab/protpardelle)) | – | – | – | ✅ ([AlphaFold](https://github.com/deepmind/alphafold), [PLAID](https://github.com/amyxlu/plaid), [MassiveFold](https://github.com/GBLille/MassiveFold)) | - |
+| Drug Discovery & Design    | ✅ [Token-Mol](https://github.com/jkwang93/Token-Mol) | ✅ ([HGAN-DTI](https://github.com/Zora-LM/HGAN-DTI), [Deep Surrogate Docking](https://github.com/ryienh/graph-dock)) | - | – | ✅ ([DiffSBDD](https://github.com/arneschneuing/DiffSBDD), [PMDM](https://github.com/Layne-Huang/PMDM/tree/main), [DiffLinker](https://github.com/igashov/difflinker)) | ✅ ([SMILES-RNN](https://github.com/MorganCThomas/SMILES-RNN), [PIGNet](https://github.com/ACE-KAIST/PIGNet)) |
 
 Legend: ✅ indicates examples available in that category.  
 
