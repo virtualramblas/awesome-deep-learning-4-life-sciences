@@ -1,9 +1,9 @@
 # awesome-deep-learning-4-life-sciences
 This repo lists a collection of resources for performing Deep Learning in [Python](https://www.python.org) for Life Sciences. Since the end of 2021 I started observing an always growing volume of academic work and Open Source initiatives related to topics such as biochemistry, genetics, molecular biology, bioinformatics, etc. Being my study background in Biomedical Engineering and Deep Learning, coming from past experiences as Software Engineer and currently working on applying ML/DL to real-life use cases in the pharma industry, these new Open Source efforts have caught my interest. That's why finally I decided to start this repository to provide researchers, developers and practitioners a single place to keep track of the latest developments in this space, with focus in particular on biotech and pharma.  
-![Splash Image](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/images/dallemini_2022-6-27_15-56-36-cropped.png)  
-Image generated through [DALL-E mini](https://huggingface.co/spaces/dalle-mini/dalle-mini) by prompting "A fancy protein folding".  
+![Splash Image](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences/blob/main/images/new_splash_image.webp)  
+  
 ## 🤝 Contributing
-Contributions welcome! Please submit PRs with new papers, repos, datasets, or tutorials.  
+Contributions welcome! Please submit PRs with new papers, repos, datasets, or tools.  
   
 ## :card_index: Cross-Link Matrix (Methods × Domains)
 
